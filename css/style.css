@@ -1,0 +1,142 @@
+html, body {
+ background:url(../images/touristattraction.jpg) no-repeat, center;
+ background-size: cover;
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+}
+
+body {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#container {
+background:rgba(255, 255, 255, 0.7);
+ width:100%;
+ margin:2% auto;
+}
+
+header {
+	padding: 2em;
+	background-color:rgba(255,200,0, 0.5);
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+	color: purple;
+}
+
+h3 {
+	color:rgba(255, 0, 0, 0.6);
+}
+
+h5{
+	margin-left: 600px;
+	color: purple;
+	text-decoration: underline;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0.5em;
+}
+
+nav ul li {
+	display: inline;
+	margin:0 1%;
+}
+
+nav ul li a:hover {
+	background-color: red;
+}
+
+nav ul li a:active {
+	color: yellow;
+}
+
+nav ul li a {
+	display: inline-block;
+	color: white;
+	width: 15em;
+	padding: 0.5em 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 90%
+}
+
+
+img { float: left;                                                         
+ width:180px; height:110px; margin: 5px;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid red;
+}
+
+.nav-link {
+    background-color:rgba(255, 0, 0, 0.5);
+}
+
+a:hover{
+	color: red;
+}
+
+/* Image for the Index.html floating at the right side */
+.southeastreg {
+	
+	width: 850px;
+	height:500px;
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+.pi {
+    width: 200px;
+    height: 200px;
+    overflow: scroll;
+}
+
+#img2 { float: left; 
+ width:180px; height:110px; margin: 5px;
+}
+
+}
+
+.hotels { float: left; 
+ width:180px; height:110px; margin: 5px;
+}
+
+}
+
+}
+h1{
+ font-family:"Times New Roman", serif;
+ font-size: 2.5em;
+ color:black;
+}
+
+ h4{
+	text-decoration: underline;
+	color: purple;
+}
+
+.maps {
+	width: 950px;
+	height: 450px;
+	padding-top: 1em;
+	padding-left: 1em;
+
+}
+
+form {
+	text-align: center;
+}
+
+.item{
+	width: 100px;
+	height: 100px;
+}
+
