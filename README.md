@@ -1,5 +1,5 @@
 # Tourist-Attraction-Website:
-This was my first assignment in my first year for Website Development. The objective was to create a Tourist Attraction Website for People living outside the SouthEast and abroad that would contain information for them to view when making a decision to visit the south-eastern region of Ireland. On top of this Project a layer of Bootstrap was also applied.
+This was my first assignment for my first year project for Website Development. The objective was to create a Tourist Attraction Website for People living outside the SouthEast and abroad that would contain information for them to view when making a decision to visit the south-eastern region of Ireland. On top of this Project a layer of Bootstrap was also applied.
 
 <img src="IMG/web-development-project-phases.jpg" width="900">
 
